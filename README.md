@@ -43,6 +43,9 @@ In conclusion, our analysis of AtliQ Mart's promotional campaigns during Diwali 
 
 ## Power Bi Dashboard
 In addition to the primary analysis, I developed an additional Power BI dashboard to offer further information and insights. This dashboard includes three distinct views:
+
+Live dashboard link : "https://app.powerbi.com/view?r=eyJrIjoiZjA1YThlZTktYjZjNy00MDVmLTk2ZmUtNTk4MmFlNTY3ZDdmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9"
+
 ### 1.Promotional Analysis
 *  This view offers insights into the effectiveness of different promotion types by highlighting the top promotion types based on Incremental Revenue and the bottom promotion types based on Incremental Sold Units.
 *  Users can compare the performance of various promotion types and identify the optimal promotion type for maximizing revenue.
