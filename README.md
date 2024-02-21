@@ -41,4 +41,28 @@ The analysis revealed valuable insights into the performance of promotional camp
 ## Conclusion:
 In conclusion, our analysis of AtliQ Mart's promotional campaigns during Diwali 2023 and Sankranti 2024 has provided valuable insights into various aspects of their sales and marketing strategies. We identified high-value products featured in 'BOGOF' promotions, analyzed the distribution of stores across different cities, and examined the total revenue generated before and after each promotional campaign. Additionally, our analysis delved into the incremental sold quantity and revenue percentage during the Diwali campaign, shedding light on the effectiveness of the promotions. Furthermore, we identified the top 5 products ranked by incremental revenue percentage, offering actionable insights for future promotional efforts. These findings will assist AtliQ Mart in optimizing their promotional strategies, enhancing sales performance, and driving customer engagement in future campaigns.
 
+## Power Bi Dashboard
+In addition to the primary analysis, I developed an additional Power BI dashboard to offer further information and insights. This dashboard includes three distinct views:
+### 1.Promotional Analysis
+*  This view offers insights into the effectiveness of different promotion types by highlighting the top promotion types based on Incremental Revenue and the bottom promotion types based on Incremental Sold Units.
+*  Users can compare the performance of various promotion types and identify the optimal promotion type for maximizing revenue.
+*  ![Screenshot 2024-02-21 155230](https://github.com/Reyyadav/Promotional_Analysis/assets/153619494/81c2cd76-9bff-45d2-bba5-cfa524666301)
 
+### 2.Store Performance Analysis
+*  This view provides a comprehensive overview of store performance metrics, allowing stakeholders to identify top-performing stores based on Incremental Revenue (IR) and bottom-performing stores based on Incremental Sold Units (ISU).
+*  Users can drill down into specific cities to analyze store performance trends across different geographical locations.
+*  ![Screenshot 2024-02-21 155821](https://github.com/Reyyadav/Promotional_Analysis/assets/153619494/9f8c181f-7787-45c9-9ecb-c514afba0200)
+
+### 3.Product-wise Analysis
+*  This view focuses on analyzing product performance and category trends, helping stakeholders identify high-lifting product categories and assess product responsiveness to promotions.
+*  Users can explore the correlation between product categories and promotion type effectiveness, enabling data-driven decision-making for future promotional strategies.
+*  ![Screenshot 2024-02-21 155844](https://github.com/Reyyadav/Promotional_Analysis/assets/153619494/f407ccfb-53b0-4820-94c4-b05867a7b7f0)
+*  ![Screenshot 2024-02-21 155904](https://github.com/Reyyadav/Promotional_Analysis/assets/153619494/8ee76a23-aba6-4c32-8541-5cace53b96b0)
+
+## Future Work
+### Competitive Analysis:
+Conduct competitive analysis to benchmark AtliQ Mart's promotional performance against industry peers and competitors. By comparing key metrics such as sales growth, market share, and customer acquisition, AtliQ Mart can identify areas of competitive advantage and opportunities for improvement to stay ahead in the market.
+### Integration with Customer Feedback:
+Integrate customer feedback data into the analysis to gain insights into customer satisfaction levels, preferences, and sentiments regarding promotional campaigns. By incorporating qualitative feedback from customers, AtliQ Mart can refine its promotional strategies and tailor offerings to better meet customer needs and preferences.
+### Long-Term Impact Assessment:
+Evaluate the long-term impact of promotional campaigns on brand loyalty, customer retention, and overall business performance. By conducting longitudinal studies and tracking key performance indicators (KPIs) over time, AtliQ Mart can measure the sustained effectiveness of its promotions and identify areas for continuous improvement and innovation.
