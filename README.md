@@ -55,7 +55,7 @@ Live dashboard link : [Link](https://app.powerbi.com/view?r=eyJrIjoiZjA1YThlZTkt
 ### 1.Promotional Analysis
 *  This view offers insights into the effectiveness of different promotion types by highlighting the top promotion types based on Incremental Revenue and the bottom promotion types based on Incremental Sold Units.
 *  Users can compare the performance of various promotion types and identify the optimal promotion type for maximizing revenue.
-*  ![Screenshot 2024-02-21 155230](https://github.com/Reyyadav/Promotional_Analysis/assets/153619494/81c2cd76-9bff-45d2-bba5-cfa524666301)
+*  ![Screenshot 2024-02-22 113736](https://github.com/Reyyadav/Promotional_Analysis/assets/153619494/06bb5ebf-5255-45f6-ab48-620af206de82)
 
 ### 2.Store Performance Analysis
 *  This view provides a comprehensive overview of store performance metrics, allowing stakeholders to identify top-performing stores based on Incremental Revenue (IR) and bottom-performing stores based on Incremental Sold Units (ISU).
