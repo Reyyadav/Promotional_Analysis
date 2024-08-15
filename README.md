@@ -1,5 +1,5 @@
 # Promotional_Analysis
-Exploring SQL Queries for Analyzing Promotional Campaign Performance at AtliQ Mart During Diwali 2023 and Sankranti 2024
+Analyzing Promotional Campaign Performance at AtliQ Mart During Diwali 2023 and Sankranti 2024
 ## Project Introduction:
 In the dynamic landscape of the retail industry, promotional campaigns serve as pivotal drivers of sales and customer engagement, particularly during festive seasons. This project delves into the realm of data analytics to scrutinize the performance of promotional endeavors carried out by AtliQ Mart, a prominent retail chain operating over 50 supermarkets in the southern region of India, recently conducted a large-scale promotion during the festive periods of Diwali 2023 and Sankranti 2024. Through rigorous analysis, our objective is to unearth valuable insights into the efficacy of these campaigns, enabling us to furnish actionable recommendations for enhancing future marketing strategies.
 
